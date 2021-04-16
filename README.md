@@ -1,3 +1,6 @@
+para subirlo al gh-pages se me presentaron errores pero hice deploy de todos modos.
+pero aqui les dejo el codigo.
+
 Participante() {
     nombre : Alvarado Jordan Joe,
     estudiante : Desarrollador Frontend
