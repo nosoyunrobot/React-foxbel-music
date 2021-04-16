@@ -1,0 +1,20 @@
+img{
+    width: 40%;
+}
+.titulo{
+    font-size: 30px;
+    font-weight: bold;
+    height: 20px;
+}
+.release{
+    color: tomato;
+    font-weight: bold;
+}
+#scroll{
+    height:400px;
+    width:400px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}
+
+

@@ -1,0 +1,23 @@
+.form-control{
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+.btn{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    color: #BDBDBD;
+}
+input:focus, input.form-control:focus, button.form-control:focus{
+    outline:none !important;
+    outline-width: 0 !important;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.btn:focus {
+    outline: none;
+    box-shadow:  none;
+}

@@ -1,0 +1,8 @@
+.scrollfavorite{
+        height:55vh;
+        overflow-y:scroll;
+        overflow-x:hidden;
+}
+.col-md-8{
+    margin-bottom: auto;
+}
